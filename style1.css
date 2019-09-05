@@ -1,0 +1,19 @@
+body {
+    background: 
+    linear-gradient(
+        rgba(255, 255, 255, 0.3),
+        rgba(255, 255, 255, 0.3)
+        ), url(../images/cl.jpeg) no-repeat center center fixed;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    
+}
+
+img {
+    height: 200px;
+}
+
+.navbar-brand.costum {
+    font-size: 28px;
+    font-family: 'Livvic', sans-serif;
+}
