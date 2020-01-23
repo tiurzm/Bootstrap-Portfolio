@@ -1,3 +1,3 @@
 # Bootstrap-Portfolio
 
-This is a portfolio, built using HTML and Bootstrap. 
+This is a a mobile responsive portfolio, built using HTML and Bootstrap. 
